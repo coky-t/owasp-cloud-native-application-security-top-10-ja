@@ -3,7 +3,7 @@ layout: col-sidebar
 title: OWASP クラウドネイティブアプリケーションセキュリティ Top 10
 site_side: true
 tags: cloud-native-application-security
-level: 4
+level: 1
 type: documentation
 auto-migrated: 0
 pitch: OWASP クラウドネイティブアプリケーションセキュリティ Top 10 ドキュメントの主な目標は、クラウドネイティブアプリケーションを安全に採用しようとしている組織に支援と教育を提供することです。このガイドではクラウドネイティブアプリケーションの最も顕著なセキュリティリスク、関連する課題、それらを克服する方法についての情報を提供します。
