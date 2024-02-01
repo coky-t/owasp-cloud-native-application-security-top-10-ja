@@ -109,14 +109,6 @@ Examples:
  * 翻訳作業 (後工程)
  * プロジェクトに参加してくださる個人や組織は謝辞ページに掲載されます。
 
-## プロジェクトスポンサー
-OWASP クラウドネイティブアプリケーションセキュリティ Top 10 プロジェクトは [Oxeye](https://oxeye.io) および [Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud) によってサポートされています。
-<br>
-[![Oxeye](assets/images/oxeye_logo.png)](https://oxeye.io/)
-<br>
-[![Prisma Cloud](assets/images/prisma_cloud.png)](https://www.paloaltonetworks.com/prisma/cloud)
-
-
 [CNAS1:2022]: https://github.com/OWASP/www-project-cloud-native-application-security-top-10/blob/master/2022/en/src/0x01_insecure_cco_config.md  
 [CNAS2:2022]: https://github.com/OWASP/www-project-cloud-native-application-security-top-10/blob/master/2022/en/src/0x02_inj_flaws.md
 [CNAS3:2022]: https://github.com/OWASP/www-project-cloud-native-application-security-top-10/blob/master/2022/en/src/0x03_improper_auth.md
