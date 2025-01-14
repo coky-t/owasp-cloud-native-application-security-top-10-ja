@@ -12,6 +12,6 @@ This is the unofficial Japanese translation of the [OWASP Cloud-Native Applicati
 * [OWASP クラウドネイティブアプリケーションセキュリティ Top 10](Document/index.md)
 * [リーダー](Document/leaders.md)
 
-## Author (日本語訳)
+## Translator (Japanese)
 
 [Koki Takeyama](https://github.com/coky-t)
