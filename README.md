@@ -1,6 +1,9 @@
 # OWASP Cloud-Native Application Security Top 10 ja
 
-This is the unofficial Japanese translation of the [OWASP Cloud-Native Application Security Top 10](https://owasp.org/www-project-cloud-native-application-security-top-10/).
+This is the unofficial Japanese translation of the [OWASP Cloud-Native Application Security Top 10](https://github.com/OWASP/www-project-cloud-native-application-security-top-10).
+
+- Document Site - <https://coky-t.gitbook.io/owasp-cloud-native-application-security-top-10-ja/>
+- Document Repository - <https://github.com/coky-t/owasp-cloud-native-application-security-top-10-ja>
 
 ### Originator
 
@@ -15,3 +18,6 @@ This is the unofficial Japanese translation of the [OWASP Cloud-Native Applicati
 ## Translator (Japanese)
 
 [Koki Takeyama](https://github.com/coky-t)
+
+- Document Site - <https://coky-t.gitbook.io/owasp-docs-ja/>
+- Document Repository - <https://github.com/coky-t/owasp-docs-ja>
